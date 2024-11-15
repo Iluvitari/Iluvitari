@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Terraforming Azure infrastructure
 - 🌱 I’m currently learning Kubernetes
-- 📫 How to reach me: email me on ethomasbroughton@gmail.com
+- 📫 How to reach me: ethomasbroughton@gmail.com
 
 Thanks for visiting!
 
