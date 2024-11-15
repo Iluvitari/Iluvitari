@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on Terraforming Azure infrastructure
+- 🌱 I’m currently learning Kubernetes
+- 📫 How to reach me: email me on ethomasbroughton@gmail.com
+
+Thanks for visiting!
+
 <!--
 **Iluvitari/Iluvitari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
